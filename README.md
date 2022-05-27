@@ -1,1 +1,1 @@
-"# Furry-Detection-Model" 
+# Furry-Detection-Model
